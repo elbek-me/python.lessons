@@ -1,0 +1,5 @@
+print("ismingiz")
+name=input()
+print("yoshingiz")
+age=input()
+print("sizning ismingiz -", name, 'yoshingiz', age )
